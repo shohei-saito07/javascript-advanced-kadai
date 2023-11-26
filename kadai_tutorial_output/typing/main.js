@@ -123,7 +123,7 @@ const timer = () => {
       // clearInterval(id);
       gameOver(id);
     }
-  }, 100);
+  }, 1000);
 };
 
 // ゲームスタート
